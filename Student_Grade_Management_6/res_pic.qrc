@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/1.png</file>
+        <file>pic/2.png</file>
+        <file>pic/3.png</file>
+        <file>pic/4.png</file>
+        <file>pic/background-1.png</file>
+        <file>pic/background-2.png</file>
+        <file>pic/background-3.png</file>
+        <file>pic/background-4.png</file>
+        <file>pic/pwd.png</file>
+        <file>pic/qq.png</file>
+        <file>pic/qq-hover.png</file>
+        <file>pic/qq-old.png</file>
+        <file>pic/user_name.png</file>
+        <file>pic/wb.png</file>
+        <file>pic/wb-hover.png</file>
+        <file>pic/wx.png</file>
+        <file>pic/wx-hover.png</file>
+        <file>pic/微博111.png</file>
+        <file>pic/微信111.png</file>
+    </qresource>
+</RCC>

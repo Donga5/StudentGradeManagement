@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.jpg</file>
+        <file>image/lock.jfif</file>
+        <file>image/Luffy.png</file>
+        <file>image/LuffyQ.png</file>
+        <file>image/Sunny.jpg</file>
+        <file>image/sunny.png</file>
+        <file>image/user.jpg</file>
+        <file>image/222.jpg</file>
+        <file>image/black.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/lock_2.png</file>
+        <file>image/user.jfif</file>
+        <file>image/user_2.jpg</file>
+        <file>image/sky.jpg</file>
+        <file>image/sky_2.jpg</file>
+        <file>pic/2.png</file>
+        <file>pic/background-2.png</file>
+        <file>pic/pwd.png</file>
+        <file>pic/qq-hover.png</file>
+        <file>pic/user_name.png</file>
+        <file>pic/wb-hover.png</file>
+        <file>pic/wx-hover.png</file>
+        <file>pic/qq-old.png</file>
+        <file>pic/qq.png</file>
+        <file>pic/wb.png</file>
+        <file>pic/wx.png</file>
+        <file>image/purple.jpg</file>
+    </qresource>
+</RCC>
